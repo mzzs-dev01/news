@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  LMHeadViewController.h
 //  news
 //
 //  Created by luochenxi on 16/2/27.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface LMHeadViewController : UICollectionViewController
 
 @end
-
